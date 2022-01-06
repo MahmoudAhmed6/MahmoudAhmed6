@@ -2,7 +2,7 @@
 
 I create web apps in `Python ` and build machine learning and deep learning models using sklearn , tensoflow , keras and more 
 
-* 🎓 Metis Data Scientist (T5)
+* 🎓 Metis Data Scientist Bootcamp(T5)
 * 🧠 i learn machine learning and deep learning 
 * 🌐 Design and develop machine learning , deep learning models 
 * 🌏 Go on educational trips abroad;
