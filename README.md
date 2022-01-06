@@ -37,4 +37,7 @@ I create web apps in `Python ` and build machine learning and deep learning mode
 [<img align="left" alt="Tensorflow" width="46px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />]()
 
 
+<br>
 
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/pythondeveloper6)
